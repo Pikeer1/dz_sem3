@@ -1,0 +1,15 @@
+D:\GB\homework3\z19\bin\Debug\net6.0\z19.exe
+D:\GB\homework3\z19\bin\Debug\net6.0\z19.deps.json
+D:\GB\homework3\z19\bin\Debug\net6.0\z19.runtimeconfig.json
+D:\GB\homework3\z19\bin\Debug\net6.0\z19.dll
+D:\GB\homework3\z19\bin\Debug\net6.0\z19.pdb
+D:\GB\homework3\z19\obj\Debug\net6.0\z19.csproj.AssemblyReference.cache
+D:\GB\homework3\z19\obj\Debug\net6.0\z19.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\homework3\z19\obj\Debug\net6.0\z19.AssemblyInfoInputs.cache
+D:\GB\homework3\z19\obj\Debug\net6.0\z19.AssemblyInfo.cs
+D:\GB\homework3\z19\obj\Debug\net6.0\z19.csproj.CoreCompileInputs.cache
+D:\GB\homework3\z19\obj\Debug\net6.0\z19.dll
+D:\GB\homework3\z19\obj\Debug\net6.0\refint\z19.dll
+D:\GB\homework3\z19\obj\Debug\net6.0\z19.pdb
+D:\GB\homework3\z19\obj\Debug\net6.0\z19.genruntimeconfig.cache
+D:\GB\homework3\z19\obj\Debug\net6.0\ref\z19.dll
